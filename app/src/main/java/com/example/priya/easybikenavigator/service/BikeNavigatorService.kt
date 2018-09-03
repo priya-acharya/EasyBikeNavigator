@@ -1,4 +1,4 @@
-package com.example.priya.easybikenavigator
+package com.example.priya.easybikenavigator.service
 
 import android.content.Intent
 import android.net.Uri
