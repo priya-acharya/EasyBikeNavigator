@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EasyBikeNavigator</string>
+    <string name="bikeNavigator_tile_name">Bike Mode</string>
+    <string name="bike_navigator">Bike Navigator!</string>
+</resources>
